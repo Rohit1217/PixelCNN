@@ -26,9 +26,8 @@
 * Train using backprop with Adam optimizer, hyperparameters can be found in the code.
 
 ## Training Details
-* No preproccesssing on data is
-* Trained for 18 epochs on colab RAM
-* Achieved avg log likelihood on training dataset
+* No preproccesssing on data 
+* Trained for 8-9 on colab GPU
 
 ## Mask Details
 * Refer to paper for more details
